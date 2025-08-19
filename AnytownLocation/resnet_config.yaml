@@ -1,0 +1,3 @@
+model_path: ./results/ResNet/ResNet_best.pth
+
+model_type: ResNet

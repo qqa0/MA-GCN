@@ -1,0 +1,3 @@
+model_path: ./results/MLP/MLP_best0.pth
+
+model_type: MLP

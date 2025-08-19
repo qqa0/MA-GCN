@@ -1,0 +1,3 @@
+model_path: ./results/ModifiedAlexNet/ModifiedAlexNet_best.pth
+
+model_type: AlexNet
