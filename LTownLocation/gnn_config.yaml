@@ -1,0 +1,3 @@
+model_path: ./results/DenseLtownLocGcn_partB/best_model.pth
+
+model_type: GNN
